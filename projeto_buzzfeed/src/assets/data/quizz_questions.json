@@ -1,0 +1,68 @@
+{
+  "title":"Voce seria um juiz corrupto de Tanelia?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Um autor morreu sem herdeiros, com quem fica os direitos autorais da obra?",
+      "options":[
+        {"id": 1, "name":"Vai para o dominio publico", "alias":"B"},
+        {"id": 2, "name":"Vai para a funeraria", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Um menó de 17 anos foi envenenado quimicamente de forma que suas celulas se desgastassem +2 anos, ele vai preso caso a maioridade penal fosse 18 anos?",
+      "options":[
+        {"id": 1, "name":"Sim, pois como o critério é biológico suas celulas se desgastaram até tal idade", "alias":"A"},
+        {"id": 2, "name":"Não, pois ele não tem 18 anos cronologicamente ainda", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Uma familia viajou em 2025 em velocidade relativistica, chegando em 2030, pela relatividade geral se passou 10 anos para eles, a lei considera uma passagem de 5 anos em relação a eles ou a de 10 anos?",
+      "options":[
+        {"id": 1, "name":"Sim, pois já foi provado que a velocidade afeta o tempo", "alias":"A"},
+        {"id": 2, "name":"Não, pois a lei se baseia em tempo absoluto", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":4,
+      "question": "Surgiu um site de apostas diferente apos a legalização das bets, ao inves de se apostar diretamente se aposta em um trader, na qual recebe seu dinheiro e aposta por voce ne bolsa de valores, o site é legal ou ilegal?",
+      "options":[
+        {"id": 1, "name":"Ilegal, pois está apostando com dinheiro alheio", "alias":"A"},
+        {"id": 2, "name":"Legal, pois está dentro da lei", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "A esposa do sujeito voltou a vida, o casamento continua ou é anulado?",
+      "options":[
+        {"id": 1, "name":"é anulado pois é 'até que a morte os separe'", "alias":"A"},
+        {"id": 2, "name":"Continua, pois o vínculo matrimonial é eterno", "alias":"B"}
+      ]
+    },
+    {
+  "id": 6,
+  "question": "Um hospital público pode negar atendimento a um paciente com infarto?",
+  "options": [
+    { "id": 1, "name": "Sim, pois o infarto não é contagioso, logo não é um problema de 'Saúde Pública'", "alias": "A" },
+    { "id": 2, "name": "Não, pois o sistema deve atender qualquer emergência de saúde dos cidadãos", "alias": "B" }
+  ]
+},
+{
+  "id": 7,
+  "question": "Um livro escrito através de um tabuleiro Ouija deve ter seus direitos autorais pagos a quem?",
+  "options": [
+    { "id": 1, "name": "Ao Estado, pois o autor é um 'Ghostwriter' (fantasma) sem registro civil ativo", "alias": "A" },
+    { "id": 2, "name": "Ao médium que escreveu, como autor físico e responsável pela obra", "alias": "B" }
+  ]
+}
+
+    
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um juiz corrupto de Tanelia",
+    "B": "Você muito provavelmente não seria um juiz corrupto de Tanelia!"
+  }
+}
